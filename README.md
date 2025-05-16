@@ -17,34 +17,34 @@
 <br/>
 [프로젝트 PPT] https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+<br/>
 <div align="right">
   
   <a href="#목차"> 목차로 </a>
   
 </div>
-<br/>
 
 ## 👨‍🏫 프로젝트 소개
 "개발자와 기업의 프로젝트를 중개하는 중개플랫폼입니다. 기업에서 프로젝트를 올릴시 각 프리랜서 개발자들이 지원을하여 자유로운 연결을 만들고자 했습니다.
 
+<br/>
 <div align="right">
   
   <a href="#목차"> 목차로 </a>
   
 </div>
-<br/>
 
 ## ⏱ 개발기간
 - 2025.04.14 ~ 2024.05.13
 - 기획서 / REST API 명세서 작성
 - 발표평가
 
+<br/>
 <div align="right">
   
   <a href="#목차"> 목차로 </a>
   
 </div>
-<br/>
 
 ## 🙋‍♂️ 개발자 소개
 
@@ -71,12 +71,12 @@
 
 💡 김리원 : 관리자 전용 웹 어드민 전체 구현 , PPT(캔바) 관리
 
+<br/>
 <div align="right">
   
   <a href="#목차"> 목차로 </a>
   
 </div>
-<br/>
 
 ## 💻 개발환경
 - **Version** : Java 17
@@ -85,12 +85,12 @@
 - **FrontEnd** :  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
 - **협업도구** : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<br/>
 <div align="right">
   
   <a href="#목차"> 목차로 </a>
   
 </div>
-<br/>
 
 ## ⚙️ 기술 스택
 - **DataBase** : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -106,6 +106,7 @@
 <br/>
 
 ## 📌 주요 기능
+<br/>
 - **개발자와 회사가 서로를 평가**
   - 평가 및 점수를 추가함으로써 프로젝트 선택 및 판단 가능
   
@@ -127,19 +128,20 @@
   - 개발자 레벨과 랭킹을 통해 성장 동기부여
   - 기업의 고용시 직관적인 평가 수치 제공
 
+<br/>
 <div align="right">
   
   <a href="#목차"> 목차로 </a>
   
 </div>
-<br/>
  
 ## ✒️ API / 라이브러리
 - **API 명세서** : 여기 회의후 확인
 
+<br/>
 <div align="right">
   
   <a href="#목차"> 목차로 </a>
   
 </div>
-<br/>
+
