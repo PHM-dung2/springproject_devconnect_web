@@ -1,6 +1,9 @@
 # 프로젝트 기반 프리랜서 개발자 중개 플랫폼 
 
+<br/>
+
 ## 목차
+
 
 - [1. 프로젝트 시연 영상](#-프로젝트-시연-영상)
 - [2. 프로젝트 소개](#-프로젝트-소개)
@@ -15,6 +18,7 @@
 
 ## 🎥 프로젝트 시연 영상
 
+
 [프로젝트 시연영상 링크] 변경필요
 <br/>
 [프로젝트 PPT] https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
@@ -28,6 +32,7 @@
 
 ## 👨‍🏫 프로젝트 소개
 
+
 "개발자와 기업의 프로젝트를 중개하는 중개플랫폼입니다. 기업에서 프로젝트를 올릴시 각 프리랜서 개발자들이 지원을하여 자유로운 연결을 만들고자 했습니다.
 
 <br/>
@@ -38,6 +43,7 @@
 </div>
 
 ## ⏱ 개발기간
+
 
 - 2025.04.14 ~ 2024.05.13
 - 기획서 / REST API 명세서 작성
@@ -51,6 +57,7 @@
 </div>
 
 ## 🙋‍♂️ 개발자 소개
+
 
 <table>
   <tbody>
@@ -84,6 +91,7 @@
 
 ## 💻 개발환경
 
+
 - **Version** : Java 17
 - **IDE** : <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />&nbsp;
 - **BackEnd** : ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) , <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />&nbsp;
@@ -99,6 +107,7 @@
 
 ## ⚙️ 기술 스택
 
+
 - **DataBase** : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 - **server** : Apache Tomcat
 - **기획서 작성** : <a href="https://docs.google.com/spreadsheets/d/1Haqee1AKGxATcJow_SI67jj3wwnm8xayMNDKzFov3vU/edit?gid=0#gid=0">
@@ -112,6 +121,7 @@
 <br/>
 
 ## 📌 주요 기능
+
 
 - **개발자와 회사가 서로를 평가**
   - 평가 및 점수를 추가함으로써 프로젝트 선택 및 판단 가능
@@ -142,6 +152,7 @@
 </div>
  
 ## ✒️ API / 라이브러리
+
 
 - **API 명세서** : 여기 회의후 확인
 
