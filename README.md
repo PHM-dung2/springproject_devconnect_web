@@ -152,7 +152,9 @@
 ## ✒️ API 및 라이브러리
 
 
-- **API 명세서** : 여기 회의후 확인
+- **API** : ![JSON](https://img.shields.io/badge/dynamic/json)
+- **라이브러리** : 
+- **RESTful API 명세서** : 여기 회의후 확인
 
 <br/>
 <div align="right">
