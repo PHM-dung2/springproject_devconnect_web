@@ -60,7 +60,7 @@
 <table>
   <tbody>
     <tr>
-     <td align="center"><a href="https://github.com/PHM-dung2"><img src="" width="100px;"  alt=""/><br /><sub><b>박희만  </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/PHM-dung2"><img src="" width="100px;"  alt=""/><br /><sub><b> 박희만 </b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/magnoria"><img src="" width="100px;" alt="" /><br /><sub><b> 한상범 </b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/hanu1229"><img src="" width="100px;" alt=""/><br /><sub><b> 한웅제 </b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/leeminjin0827"><img src="" width="100px;" alt=""/><br /><sub><b> 이민진 </b></sub></a><br /></td>
@@ -92,7 +92,7 @@
 
 - **Version** : Java 17
 - **IDE** : <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />&nbsp;
-- **BackEnd** : ![Java](https://img.shields.io/badge/Language-Java-007396?logo=java&logoColor=white) , <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />&nbsp;
+- **BackEnd** : <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />&nbsp;
 - **FrontEnd** :  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
 - **협업도구** : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
@@ -152,11 +152,12 @@
 ## ✒️ API 및 라이브러리
 
 
-- **API** : ![badge](https://img.shields.io/badge/dynamic/json?color=blue&label=TechStack&query=$.stack&url=https://example.com/data.json)
-- **라이브러리** : ![RESTful API](https://img.shields.io/badge/API-RESTful%20API-6DB33F?logo=springboot&logoColor=white),
-                    ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black),
-![JJWT](https://img.shields.io/badge/Security-JJWT-ED8B00?logo=jsonwebtokens&logoColor=white)
-![Lombok](https://img.shields.io/badge/Helper-Lombok-EA3324?logo=java&logoColor=white)
+- **API** : <img src="https://img.shields.io/badge/RESTfulAPI-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="RESTful API" />
+
+- **라이브러리** : <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
+<img src="https://img.shields.io/badge/JJWT-ED8B00.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JJWT" />&nbsp;
+<img src="https://img.shields.io/badge/Lombok-EA3324.svg?style=for-the-badge&logo=java&logoColor=white" alt="Lombok" />&nbsp;
+
 - **RESTful API 명세서** : 여기 회의후 확인
 
 <br/>
