@@ -1,14 +1,14 @@
 # 프로젝트 기반 프리랜서 개발자 중개 플랫폼 
 
 ## 목차
-- [1. 프로젝트 시연 영상](#프로젝트-시연-영상)
-- [2. 프로젝트 소개](#프로젝트-소개)
+- [1. 프로젝트 시연 영상](#프로젝트 시연 영상)
+- [2. 프로젝트 소개](#프로젝트 소개)
 - [3. 개발기간](#개발기간) 
-- [4. 개발자 소개](#개발자-소개)
+- [4. 개발자 소개](#개발자 소개)
 
 
 
-🎥 ## 프로젝트 시연 영상
+## 🎥 프로젝트 시연 영상
 [프로젝트 시연영상 링크] 변경필요
 <br/>
 [프로젝트 PPT] https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
