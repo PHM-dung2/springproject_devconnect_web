@@ -2,13 +2,10 @@
 여기 소개글
 
 ## 목차
-  [1. 프로젝트 시연 영상](#1-프로젝트-시연-영상)
-  
-  [2. 프로젝트 소개](#2-프로젝트-소개)
-  
-  [3. 개발기간](#3-개발기간)
-  
-  [4. 개발자 소개](#4-개발자-소개)
+[1. 프로젝트 시연 영상](#1-프로젝트-시연-영상)
+[2. 프로젝트 소개](#2-프로젝트-소개)
+[3. 개발기간](#3-개발기간) 
+[4. 개발자 소개](#4-개발자-소개)
 
 
 
@@ -18,7 +15,9 @@
 [프로젝트 PPT]https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <div align="right">
-  [목차로](#목차)
+  
+[목차로](#목차)
+  
 </div>
 
 ## 👨‍🏫 프로젝트 소개
