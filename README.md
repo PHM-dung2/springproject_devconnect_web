@@ -1,19 +1,25 @@
 # 프로젝트 기반 프리랜서 개발자 중개 플랫폼 
 여기 소개글
 
-# 목차
+## 목차
   [1. 프로젝트 시연 영상](#1-프로젝트-시연-영상)
+  
   [2. 프로젝트 소개](#2-프로젝트-소개)
+  
   [3. 개발기간](#3-개발기간)
+  
   [4. 개발자 소개](#4-개발자-소개)
 
 
 
-# 🎥 프로젝트 시연영상
+## 🎥 프로젝트 시연영상
 [프로젝트 시연영상 링크] 변경필요
 <br/>
 [프로젝트 PPT]https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+<div align="right">
+  [목차로](#목차)
+</div>
 
 ## 👨‍🏫 프로젝트 소개
 "개발자와 기업의 프로젝트를 중개하는 중개플랫폼입니다. 기업에서 프로젝트를 올릴시 각 프리랜서 개발자들이 지원을하여 자유로운 연결을 만들고자 했습니다.
