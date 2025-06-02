@@ -17,7 +17,7 @@
 ## 🎥 프로젝트 시연 영상
 
 
-[프로젝트 시연영상 링크] 변경필요
+[프로젝트 시연영상 링크] https://youtu.be/MDLDmTVVesE
 <br/>
 [프로젝트 PPT] https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
@@ -31,8 +31,12 @@
 ## 👨‍🏫 프로젝트 소개
 
 
-"개발자와 기업의 프로젝트를 중개하는 중개플랫폼입니다. 기업에서 프로젝트를 올릴시 각 프리랜서 개발자들이 지원을하여 자유로운 연결을 만들고자 했습니다.
-
+ 프리랜서 개발자와 기업의 프로젝트를 중개하는 중개플랫폼입니다. 
+ <br/>
+ 기업이 프로젝트를 등록하면, 프리랜서 개발자들이 자유롭게 지원하여 매칭이 이루어지며, 프리랜서의 **레벨 시스템**을 통해 개발자의 역량을 직관적으로 판단할 수 있습니다.
+ <br/>
+ 또한, **기업 평점과 요구 기술 스택과의 적합도를 기반으로 프로젝트를 추천해주는 기능**도 제공하여 보다 효율적이고 신뢰도 높은 매칭이 가능하도록 설계되었습니다.
+ 
 <br/>
 <div align="right">
   
@@ -117,9 +121,7 @@
 <img src="https://img.shields.io/badge/Tomcat-10.1-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" />&nbsp;
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />&nbsp;
 
-- **기획서 작성** : <a href="https://docs.google.com/spreadsheets/d/1Haqee1AKGxATcJow_SI67jj3wwnm8xayMNDKzFov3vU/edit?gid=0#gid=0">
-
-- **일정 관리** : Excel
+- **기획서 작성, 일정관리** : <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" /> 
 
 <div align="right">
   
@@ -168,7 +170,7 @@
 <img src="https://img.shields.io/badge/JJWT-ED8B00.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JJWT" />&nbsp;
 <img src="https://img.shields.io/badge/Lombok-EA3324.svg?style=for-the-badge&logo=java&logoColor=white" alt="Lombok" />&nbsp;
 
-- **RESTful API 명세서** : 여기 회의후 확인
+- **RESTful API 명세서** : 
 
 <br/>
 <div align="right">
