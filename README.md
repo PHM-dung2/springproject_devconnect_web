@@ -35,6 +35,9 @@
 
 ## 👨‍🏫 프로젝트 소개
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ded3953-9e08-4db2-8c60-3afbea4bca5f" />
+</p>
 
  프리랜서 개발자와 기업의 프로젝트를 중개하는 중개플랫폼입니다. 
  <br/>
@@ -96,33 +99,44 @@
   
 </div>
 
-## 📌 주요 기능
+## ⚒ 서비스 아키텍처
+![Image](https://github.com/user-attachments/assets/1c860ce5-812c-4a63-bed3-1abf7fb76aee)
 <br/>
 
-![Image](https://github.com/user-attachments/assets/fee241b6-8cdb-44fd-abbe-38868400e181)
+Flutter(모바일)와 React(웹) 클라이언트로부터 JWT 기반 인증·인가를 거쳐, Spring 내장 톰캣으로 구성된 마이크로서비스들이 요청을 처리하며, 토큰은 Redis에서 관리되고, 전체 인프라는 AWS EC2, RDS, S3 기반으로 운영됩니다. 
+
 <br/>
+<div align="right">
+  
+  <a href="#목차"> 목차로 </a>
+  
+</div>
+
+## 📌 주요 기능
+
+![Image](https://github.com/user-attachments/assets/fee241b6-8cdb-44fd-abbe-38868400e181)
 
 - **개발자와 회사가 서로를 평가**
   - 평가 및 점수를 추가함으로써 프로젝트 선택 및 판단 가능
-  
+
+<br/><br/>
 ![Image](https://github.com/user-attachments/assets/42facaf5-ecff-40b4-8520-598e30b5d04d)
-<br/>
     
 - **프로젝트 검색, 탐색, 매칭 추천**
-  - 프로젝트 검색(백엔드, 프론트)
-  - 프로젝트 탐색 
-  - 기술스택을 매칭
+  - 프로젝트 필터( 공고상태, 프론트엔드/백엔드 ) 검색
+  - 프로젝트에 필요한 요구 기술스택 및 
+  - 기업 평가와 기술스택 적합도에 따라 프로젝트 자동 매칭 
 
+<br/><br/>
 ![Image](https://github.com/user-attachments/assets/a56a2d37-c82f-41c8-8110-76e0a8e6df84)
-<br/>
     
 - **react 관리자 페이지에서 프로젝트 상태 확인**
   - 프로젝트 운영 흐름 관리
   - 관리자 전용 통합 제어 시스템
   - 데이터 기반 의사결정 지원
 
+<br/><br/>
 ![Image](https://github.com/user-attachments/assets/bd68983d-cca7-4995-92e7-06f47c0c0e13)
-<br/>
  
 - **회사와 개발자 각 로그인 기능 및 개발자 레벨과 랭킹 시각화**
   - 개발자 레벨과 랭킹을 통해 성장 동기부여
