@@ -81,14 +81,14 @@
 ## 🙋‍♂️ 개발자 소개
 
 
-<table>
+<table height="180" >
   <tbody>
     <tr>
-     <td align="center"><a href="https://github.com/PHM-dung2"><img src="" width="100px;"  alt=""/><br /><sub><b> 박희만 </b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/magnoria"><img src="" width="100px;" alt="" /><br /><sub><b> 한상범 </b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/hanu1229"><img src="" width="100px;" alt=""/><br /><sub><b> 한웅제 </b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/leeminjin0827"><img src="" width="100px;" alt=""/><br /><sub><b> 이민진 </b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/riwon-sys"><img src="" width="100px;" alt=""/><br /><sub><b> 김리원 </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/PHM-dung2"><img src="https://github.com/user-attachments/assets/b344c279-be9a-4bef-87a5-90f29168b259" width="100;"  alt=""/><br /><sub><b> 박희만 </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/magnoria"><img src="https://github.com/user-attachments/assets/a5e9238e-8993-43d4-8c53-d0d857079f10" width="100;" alt="" /><br /><sub><b> 한상범 </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/hanu1229"><img src="https://github.com/user-attachments/assets/e4b305d3-79e5-4604-9109-685adff27753" width="100;" alt=""/><br /><sub><b> 한웅제 </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/leeminjin0827"><img src="https://github.com/user-attachments/assets/16b7a60d-4dd7-4128-a444-0c294104d32e" width="100;" alt=""/><br /><sub><b> 이민진 </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/riwon-sys"><img src="https://github.com/user-attachments/assets/b47fa3b5-2532-4ce0-b6e8-92b152adf78d" width="100;" alt=""/><br /><sub><b> 김리원 </b></sub></a><br /></td>
      <tr/>
   </tbody>
 </table>
@@ -96,13 +96,13 @@
 
 💡 박희만 : **조장, 공통 레이아웃 · 컴포넌트 배포**, 회원(개발자) 기능, 프로젝트 추천 알고리즘, 개발자 레벨링 로직
 <br/> <br/>
-💡 한상범 : 회원(기업)기능 , 일일 체크리스트 작성
+💡 한상범 : **회원(기업)기능** , 일일 체크리스트 작성
 <br/> <br/>
-💡 한웅재 : 프로젝트 기능 , 프로젝트 신청 기능 , GIT 관리 , AWS 배포
+💡 한웅재 : **프로젝트 기능 , 프로젝트 신청 기능 , GIT 관리 , AWS 배포**
 <br/> <br/>
-💡 이민진 : 기업평가 기능 , 개발자 평가 기능 , PPT(캔바) 관리
+💡 이민진 : **기업평가 기능 , 개발자 평가 기능** , PPT(캔바) 관리
 <br/> <br/>
-💡 김리원 : 관리자 전용 웹 어드민 전체 구현 , PPT(캔바) 관리
+💡 김리원 : **관리자 기능 전용 웹페이지 구현** , PPT(캔바) 관리
 
 <br/>
 <div align="right">
