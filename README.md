@@ -12,7 +12,7 @@
 - [2. 프로젝트 소개](#-프로젝트-소개)
 - [3. 개발기간](#-개발기간)
 - [4. 개발자 소개](#%EF%B8%8F-개발자-소개)
-- [5. 서비스 아키텍처](#-서비스-아키텍처)
+- [5. 서비스 아키텍처](#%EF%B8%8F-서비스-아키텍처)
 - [6. 주요 기능](#-주요-기능)
 - [7. 개발 환경](#-개발-환경)
 - [8. 기술 스택](#-기술-스택)
@@ -57,8 +57,7 @@
 
 
 - 2025.04.14 ~ 2024.05.13(1달)
-- 기획서 / REST API 명세서 작성
-- 발표평가
+- [개발 일정 링크](https://docs.google.com/spreadsheets/d/1Wh5a-Tiyy4bvsfPYyM7Am1z8RW1YDjXyTb0iegUJqME/edit?gid=1386834576#gid=1386834576)
 
 <br/>
 <div align="right">
@@ -83,7 +82,7 @@
 </table>
 
 
-💡 박희만 : 조장, 공통 레이아웃 · 컴포넌트 배포, 회원(개발자) 기능, 개발자 레벨링 로직
+💡 박희만 : **조장, 공통 레이아웃 · 컴포넌트 배포**, 회원(개발자) 기능, 프로젝트 추천 알고리즘, 개발자 레벨링 로직
 
 💡 한상범 : 회원(기업)기능 , 일일 체크리스트 작성
 
@@ -101,10 +100,14 @@
 </div>
 
 ## ⚙️ 서비스 아키텍처
-![Image](https://github.com/user-attachments/assets/1c860ce5-812c-4a63-bed3-1abf7fb76aee)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c860ce5-812c-4a63-bed3-1abf7fb76aee" />
+</p>
+
 <br/>
 
-Flutter(모바일)와 React(웹) 클라이언트로부터 JWT 기반 인증·인가를 거쳐, Spring 내장 톰캣으로 구성된 마이크로서비스들이 요청을 처리하며, 토큰은 Redis에서 관리되고, 전체 인프라는 AWS EC2, RDS, S3 기반으로 운영됩니다. 
+**Flutter(모바일)와 React(웹)** 클라이언트로부터 **JWT 기반 인증 · 인가**를 거쳐, **Spring 내장 톰캣**으로 구성된 **마이크로서비스**들이 요청을 처리하며, 토큰은 **Redis**에서 관리되고, 전체 인프라는 **AWS EC2, RDS, S3** 기반으로 운영됩니다. 
 
 <br/>
 <div align="right">
