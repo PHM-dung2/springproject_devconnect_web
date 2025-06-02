@@ -99,7 +99,7 @@
   
 </div>
 
-## ⚒ 서비스 아키텍처
+## ⚙️ 서비스 아키텍처
 ![Image](https://github.com/user-attachments/assets/1c860ce5-812c-4a63-bed3-1abf7fb76aee)
 <br/>
 
@@ -169,7 +169,7 @@ Flutter(모바일)와 React(웹) 클라이언트로부터 JWT 기반 인증·인
   
 </div>
 
-## ⚙️ 기술 스택
+## ⚒ 기술 스택
 
 
 - **DataBase** : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
