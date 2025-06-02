@@ -67,7 +67,9 @@
 
 
 - 2025.04.14 ~ 2024.05.13(1달)
-- [개발 일정 링크](https://docs.google.com/spreadsheets/d/1Wh5a-Tiyy4bvsfPYyM7Am1z8RW1YDjXyTb0iegUJqME/edit?gid=1386834576#gid=1386834576)
+<br/> <br/>
+  
+- [[ 개발 일정 링크 ]](https://docs.google.com/spreadsheets/d/1Wh5a-Tiyy4bvsfPYyM7Am1z8RW1YDjXyTb0iegUJqME/edit?gid=1386834576#gid=1386834576)
 
 <br/>
 <div align="right">
