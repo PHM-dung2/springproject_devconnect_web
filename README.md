@@ -8,7 +8,7 @@
 
 ## 목차
 
-- [1. 프로젝트 시연 영상](#-프로젝트-시연-영상)
+- [1. 프로젝트 시연 및 자료](#-프로젝트-시연-및-자료)
 - [2. 프로젝트 소개](#-프로젝트-소개)
 - [3. 개발기간](#-개발기간)
 - [4. 개발자 소개](#%EF%B8%8F-개발자-소개)
@@ -20,13 +20,19 @@
 <br/>
 
 
-## 🎥 프로젝트 시연 영상
+## 🎥 프로젝트 시연 및 자료
 
-
-[프로젝트 시연영상 링크](https://youtu.be/MDLDmTVVesE)
 <br/>
-[프로젝트 PPT](https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+&nbsp;&nbsp; 🎬 [[ 프로젝트 시연영상 링크 ]](https://youtu.be/MDLDmTVVesE)
+<br/> <br/>
+
+&nbsp;&nbsp; 📋 [[ 프로젝트 PPT ]](https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<br/> <br/>
+
+&nbsp;&nbsp; 📲 [[ 앱 프로젝트 (GitHub) ]](https://github.com/PHM-dung2/springproject_devconnect_app)
+
+ 
 <br/>
 <div align="right">
   
