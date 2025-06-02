@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbde0ccd-cb30-487a-8442-ac502656a41f" width="500" height="150" />
+</p>
+
 # 프로젝트 기반 프리랜서 개발자 중개 플랫폼 
 
 
