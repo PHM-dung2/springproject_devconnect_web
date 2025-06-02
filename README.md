@@ -2,8 +2,9 @@
   <img src="https://github.com/user-attachments/assets/cbde0ccd-cb30-487a-8442-ac502656a41f" width="500" height="150" />
 </p>
 
-# 프로젝트 기반 프리랜서 개발자 중개 플랫폼 
+<h1 align="center">프로젝트 기반 프리랜서 개발자 중개 플랫폼</h1>
 
+<br/>
 
 ## 목차
 
@@ -11,9 +12,9 @@
 - [2. 프로젝트 소개](#-프로젝트-소개)
 - [3. 개발기간](#-개발기간)
 - [4. 개발자 소개](#%EF%B8%8F-개발자-소개)
-- [5. 개발 환경](#-개발-환경)
-- [6. 기술 스택](#%EF%B8%8F-기술-스택)
-- [7. 주요 기능](#-주요-기능)
+- [5. 주요 기능](#-주요-기능)
+- [6. 개발 환경](#-개발-환경)
+- [7. 기술 스택](#%EF%B8%8F-기술-스택)
 - [8. API 및 라이브러리](#%EF%B8%8F-api-및-라이브러리)
 <br/>
 
@@ -21,9 +22,9 @@
 ## 🎥 프로젝트 시연 영상
 
 
-[프로젝트 시연영상 링크] https://youtu.be/MDLDmTVVesE
+[프로젝트 시연영상 링크](https://youtu.be/MDLDmTVVesE)
 <br/>
-[프로젝트 PPT] https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[프로젝트 PPT](https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br/>
 <div align="right">
@@ -51,7 +52,7 @@
 ## ⏱ 개발기간
 
 
-- 2025.04.14 ~ 2024.05.13
+- 2025.04.14 ~ 2024.05.13(1달)
 - 기획서 / REST API 명세서 작성
 - 발표평가
 
@@ -87,6 +88,45 @@
 💡 이민진 : 기업평가 기능 , 개발자 평가 기능 , PPT(캔바) 관리
 
 💡 김리원 : 관리자 전용 웹 어드민 전체 구현 , PPT(캔바) 관리
+
+<br/>
+<div align="right">
+  
+  <a href="#목차"> 목차로 </a>
+  
+</div>
+
+## 📌 주요 기능
+<br/>
+
+![Image](https://github.com/user-attachments/assets/fee241b6-8cdb-44fd-abbe-38868400e181)
+<br/>
+
+- **개발자와 회사가 서로를 평가**
+  - 평가 및 점수를 추가함으로써 프로젝트 선택 및 판단 가능
+  
+![Image](https://github.com/user-attachments/assets/42facaf5-ecff-40b4-8520-598e30b5d04d)
+<br/>
+    
+- **프로젝트 검색, 탐색, 매칭 추천**
+  - 프로젝트 검색(백엔드, 프론트)
+  - 프로젝트 탐색 
+  - 기술스택을 매칭
+
+![Image](https://github.com/user-attachments/assets/a56a2d37-c82f-41c8-8110-76e0a8e6df84)
+<br/>
+    
+- **react 관리자 페이지에서 프로젝트 상태 확인**
+  - 프로젝트 운영 흐름 관리
+  - 관리자 전용 통합 제어 시스템
+  - 데이터 기반 의사결정 지원
+
+![Image](https://github.com/user-attachments/assets/bd68983d-cca7-4995-92e7-06f47c0c0e13)
+<br/>
+ 
+- **회사와 개발자 각 로그인 기능 및 개발자 레벨과 랭킹 시각화**
+  - 개발자 레벨과 랭킹을 통해 성장 동기부여
+  - 기업의 고용시 직관적인 평가 수치 제공
 
 <br/>
 <div align="right">
@@ -133,37 +173,6 @@
   
 </div>
 <br/>
-
-## 📌 주요 기능
-
-
-- **개발자와 회사가 서로를 평가**
-  - 평가 및 점수를 추가함으로써 프로젝트 선택 및 판단 가능
-  
-
-    
-- **프로젝트 검색, 탐색, 매칭 추천**
-  - 프로젝트 검색(백엔드, 프론트)
-  - 프로젝트 탐색 
-  - 기술스택을 매칭
-
-
-    
-- **react 관리자 페이지에서 프로젝트 상태 확인**
-  - 프로젝트 운영 흐름 관리
-  - 관리자 전용 통합 제어 시스템
-  - 데이터 기반 의사결정 지원
- 
-- **회사와 개발자 각 로그인 기능 및 개발자 레벨과 랭킹 시각화**
-  - 개발자 레벨과 랭킹을 통해 성장 동기부여
-  - 기업의 고용시 직관적인 평가 수치 제공
-
-<br/>
-<div align="right">
-  
-  <a href="#목차"> 목차로 </a>
-  
-</div>
  
 ## ✒️ API 및 라이브러리
 
@@ -174,7 +183,7 @@
 <img src="https://img.shields.io/badge/JJWT-ED8B00.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JJWT" />&nbsp;
 <img src="https://img.shields.io/badge/Lombok-EA3324.svg?style=for-the-badge&logo=java&logoColor=white" alt="Lombok" />&nbsp;
 
-- **RESTful API 명세서** : 
+- [**RESTful API 명세서**](https://docs.google.com/spreadsheets/d/1Haqee1AKGxATcJow_SI67jj3wwnm8xayMNDKzFov3vU/edit?gid=1854615573#gid=1854615573)
 
 <br/>
 <div align="right">
