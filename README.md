@@ -69,9 +69,9 @@
 
 이 프로젝트는 백엔드(Spring Boot 기반 API 서버)와 프론트엔드(Flutter 기반 모바일 앱)로 구성되어 있습니다.
 
-- 🔧 **백엔드**: 사용자 인증, 데이터 저장, 비즈니스 로직 처리 등을 담당
+- 🔧 **백엔드 [(GitHub)](https://github.com/PHM-dung2/springproject_devconnect_web)**: 사용자 인증, 데이터 저장, 비즈니스 로직 처리 등을 담당
 <br/><br/>
-- 📱 **모바일 앱( [[ 앱 프로젝트 (GitHub) ]](https://github.com/PHM-dung2/springproject_devconnect_app) )**: 사용자 인터페이스, 기능 구현, 백엔드 API와의 통신을 담당
+- 📱 **모바일 앱 [(GitHub)](https://github.com/PHM-dung2/springproject_devconnect_app)**: 사용자 인터페이스, 기능 구현, 백엔드 API와의 통신을 담당
 <br/><br/>
 
 <br/>
